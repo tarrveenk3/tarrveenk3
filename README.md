@@ -14,5 +14,5 @@
  
 ## **Let's connect ->**
 #### Reach me at [Twitter](https://twitter.com/tarrveen?s=09) and [LinkedIn](https://www.linkedin.com/in/tarrveen-kaur-kohli-0a70a9172) 
-#### Mail me [Here](mailto:http://tarrveen.kohli@studentambassadors.com)
+#### Mail me [Here](mailto:http://tarrveenkaurkohli@gmail.com)
 <!--- tarrveenk3/tarrveenk3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
