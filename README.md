@@ -2,7 +2,6 @@
 <h1 align="center">Tarrveen Kohli</h1> 
 <p align="center">Hi there! I'm Tarrveen - a student of Computer Science (specialising in Internet of things and Smart Cities), <a href="https://studentambassadors.microsoft.com/en-US/profile/84615">Microsoft Learn Student Ambassador</a> a practicing Acupressure and Acupuncture therapist working with <a href="http://www.sujok.com/isa-india">ISA </a>and an amateur writer.</p>
 
-Tags
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tarrveenk3&label=Profile%20views&color=0e75b6&style=flat" alt="tarrveenk3"> 
   <br><br>
@@ -16,8 +15,6 @@ Tags
 
 </p>
 
-<p align="left"> <a href="https://twitter.com/tarrveen" target="blank"><img src="https://img.shields.io/twitter/follow/tarrveen?logo=twitter&style=for-the-badge" alt="tarrveen" /></a> </p>
-lit
 
 <a href="https://studentambassadors.microsoft.com/en-US/profile/84615"><img src="mlsa_badge.png" height="130px" width="auto" alt="Microsoft Learn Student Ambassador badge" /></a>
 
