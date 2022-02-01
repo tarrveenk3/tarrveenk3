@@ -6,8 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=tarrveenk3&label=Profile%20views&color=0e75b6&style=flat" alt="tarrveenk3"> 
   <br><br>
   
-  <img src="https://ginomessmerreadme.blob.core.windows.net/shields/spotify.svg" alt="Spotify shield">
-  <img src="https://ginomessmerreadme.blob.core.windows.net/shields/steam.svg" alt="Steam shield">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify shield">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Steam shield">
   <br>
   
   <img src="https://ginomessmerreadme.blob.core.windows.net/shields/ms_learn.svg" alt="Microsoft Learn shield">
