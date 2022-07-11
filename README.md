@@ -11,6 +11,7 @@
   <br>
   
   <img src="https://ginomessmerreadme.blob.core.windows.net/shields/ms_learn.svg" alt="Microsoft Learn shield">
+  <img src="https://drive.google.com/file/d/1XdwfzVX7g-k4j6zAVmU1_MU4BdrWXgxu/view?usp=drivesdk" alt="Beta Microsoft Learn shield">
 
 
 </p>
