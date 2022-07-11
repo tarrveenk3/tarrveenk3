@@ -1,6 +1,6 @@
 --- 
 <h1 align="center">Tarrveen Kohli</h1> 
-<p align="center">Hi there! I'm Tarrveen - a Computer Science Engineering Graduate (specialized in Internet of Things and Smart Cities and Artificial Intelligence), <a href="https://studentambassadors.microsoft.com/en-US/profile/84615">Microsoft Learn Student Ambassador</a> a practicing Acupressure and Acupuncture therapist working with <a href="http://www.sujok.com/isa-india">ISA </a>and a creative as well as professional writer.</p>
+<p align="center">Hi there! I'm Tarrveen - a Computer Science Engineering Graduate (specialized in Internet of Things and Smart Cities and Artificial Intelligence), <a href="https://studentambassadors.microsoft.com/en-US/profile/84615">a Beta Microsoft Learn Student Ambassador</a>, a practicing Acupressure and Acupuncture therapist working with <a href="http://www.sujok.com/isa-india">ISA </a>,and a creative as well as professional content writer.</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tarrveenk3&label=Profile%20views&color=0e75b6&style=flat" alt="tarrveenk3"> 
