@@ -26,9 +26,10 @@
 - 🌈 I love music, reading, yoga, traveling, learning about different cultures, meeting new people and making friends. 
 - 📝 I'm very passionate about writing and expressing myself in a way that reaches out to people and resonates with them, and I try creating an impact with the work I put out in the world. 
 - 💫 I've been programming since 2011, and usually play around with C++, Java, HTML and CSS. 
-- 💡 I've been writing since 2015 and its almost a meditative hobby. In the last couple years I've worked with clubs and chapters in my university as an event head and editor. - 🌱 I’m currently learning Python, Machine Learning, Computer Architecture and Integration of IoT in Healthcare. 
-- 🍨 I can speak fluently in both English and Hindi. (And a broken mix of both) 
-- 🌐 I’m looking to collaborate on a software development project that would integrate remote sensing with ML to detect natural disasters. 
+- 💡 I've been writing since 2015 and its almost a meditative hobby. In the last couple years I've worked with clubs and chapters in my university as an event head and editor. 
+- 🌱 I’m currently learning Python, Machine Learning, Computer Architecture and Integration of IoT in Healthcare. 
+- 🍨 I can speak fluently in both English and Hindi. (And a broken mix of both lol) 
+- 🌐 I’m looking to collaborate on a software development project that would integrate remote sensing with ML to detect natural disasters as well as another project using Artificial Intelligence and Sentimental Analysis to Map Brain Health Activity using Mobile Devices. 
  
 ## **Connect with me ->**
 <p align="left"> <a href="https://twitter.com/tarrveen?s=09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/tarrveen?s=09" height="30" width="40" /></a> <a href="https://in.linkedin.com/in/tarrveen-kaur-kohli-0a70a9172" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://in.linkedin.com/in/tarrveen-kaur-kohli-0a70a9172" height="30" width="40" /></a><a href="mailto:tarrveenkaurkohli@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="mailto:http://tarrveenkaurkohli@gmail.com" height="30" width="40" /></a> </p>
