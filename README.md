@@ -1,36 +1,79 @@
---- 
-<h1 align="center">Tarrveen Kohli</h1> 
-<p align="center">Hi there! I'm Tarrveen - a Computer Science Engineering Graduate (specialized in Internet of Things and Smart Cities and Artificial Intelligence), a <a href="https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/a6e985cb-5e58-4bbb-93e8-4833650ecc9c">Beta Microsoft Learn Student Ambassador</a>, a practicing Acupressure and Acupuncture therapist working with <a href="http://www.sujok.com/isa-india">ISA </a>,and a creative as well as professional content writer.</p>
+<h1 align="center">Tarrveen Kaur Kohli</h1>
+
+<p align="center">Hi there! I'm Tarrveen — a Computer Science graduate, aspiring Psychologist, AI researcher, content creator, and former <a href="https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/a6e985cb-5e58-4bbb-93e8-4833650ecc9c">Microsoft Learn Student Ambassador</a>. I'm passionate about bridging technology with mental health, and using data and AI to create meaningful impact.</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tarrveenk3&label=Profile%20views&color=0e75b6&style=flat" alt="tarrveenk3"> 
+  <img src="https://komarev.com/ghpvc/?username=tarrveenk3&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
   <br><br>
-  
   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify shield">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Steam shield">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity shield">
   <br>
-  
   <img src="https://ginomessmerreadme.blob.core.windows.net/shields/ms_learn.svg" alt="Microsoft Learn shield">
-
 </p>
 
+<p align="center">
+  <a href="https://studentambassadors.microsoft.com/en-US/profile/84615">
+    <img src="mlsa_badge.png" height="130px" alt="Microsoft Learn Student Ambassador badge" />
+  </a>
+  <a href="https://studentambassadors.microsoft.com/en-US/profile/84615">
+    <img src="https://studentambassadors.microsoft.com/Assets/Badge/LevelBeta.png" height="130px" alt="Beta badge" />
+  </a>
+</p>
 
-<a href="https://studentambassadors.microsoft.com/en-US/profile/84615"><img src="mlsa_badge.png" height="130px" width="auto" alt="Microsoft Learn Student Ambassador badge" /></a>
-<a href="https://studentambassadors.microsoft.com/en-US/profile/84615"><img src="https://studentambassadors.microsoft.com/Assets/Badge/LevelBeta.png" height="130px" width="auto" alt="Microsoft Learn Student Ambassador badge" /></a>
+---
 
-<h3>Languages and Tools:</h3> <p > <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+### 🧠 Current Focus:
+- 📚 PGDip in Psychological Sciences at the University of Nottingham (Scholarship Awardee)
+- 🧪 Research: Developmental Disorders, Executive Function, Neuropsychology
+- 🤖 AI in Healthcare & Mental Well-being
+- ✍ Technical and Creative Writing
 
-# Key Facts 
-## About me->  
-- 🌈 I love music, reading, yoga, traveling, learning about different cultures, meeting new people and making friends. 
-- 📝 I'm very passionate about writing and expressing myself in a way that reaches out to people and resonates with them, and I try creating an impact with the work I put out in the world. 
-- 💫 I've been programming since 2011, and usually play around with C++, Java, HTML and CSS. 
-- 💡 I've been writing since 2015 and its almost a meditative hobby. In the last couple years I've worked with clubs and chapters in my university as an event head and editor. 
-- 🌱 I’m currently learning Python, Machine Learning, Computer Architecture and Integration of IoT in Healthcare. 
-- 🍨 I can speak fluently in both English and Hindi. (And a broken mix of both lol) 
-- 🌐 I’m looking to collaborate on a software development project that would integrate remote sensing with ML to detect natural disasters as well as another project using Artificial Intelligence and Sentimental Analysis to Map Brain Health Activity using Mobile Devices. 
- 
-## **Connect with me ->**
-<p align="left"> <a href="https://twitter.com/tarrveen?s=09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/tarrveen?s=09" height="30" width="40" /></a> <a href="https://in.linkedin.com/in/tarrveen-kaur-kohli-0a70a9172" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://in.linkedin.com/in/tarrveen-kaur-kohli-0a70a9172" height="30" width="40" /></a><a href="mailto:tarrveenkaurkohli@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="mailto:http://tarrveenkaurkohli@gmail.com" height="30" width="40" /></a> </p>
-<!--- tarrveenk3/tarrveenk3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
+### 💼 Recent Projects:
+- 🧬 *A.I.-Enabled Brain Health Mapping System* – Transformer-based depression detection with 92.5% accuracy.
+- 🧠 *IBM Internship* – Brain tumor detection using YOLO & UNet (94.5% accuracy).
+- 🌍 *Dehradun Smart City Ltd.* – Smart tech research & content development under the Govt. of Uttarakhand.
+- 🧾 *Cross-Cultural Study* – Validation of behavioral assessment tools in children (5–15 years) using NEPSY.
+
+---
+
+### 🛠 Languages and Tools:
+<p>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🌈 About Me
+- 🧘‍♀ I enjoy music, yoga, exploring cultures, and writing—my go-to for expression and introspection.
+- 💻 Tech-savvy since 2011; focused on AI, IoT, NLP & healthcare technologies.
+- 🗣 Fluent in English and Hindi, with a soft spot for Hinglish.
+- 🌐 Always open to collaborations in tech + psychology for societal good.
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://twitter.com/tarrveen?s=09" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/tarrveenkaurkohli" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:tarrveenkaurkohli@gmail.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="Email" height="30" width="40" />
+  </a>
+</p>
