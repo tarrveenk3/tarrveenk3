@@ -16,7 +16,7 @@
     <img src="mlsa_badge.png" height="130px" alt="Microsoft Learn Student Ambassador badge" />
   </a>
   <a href="https://studentambassadors.microsoft.com/en-US/profile/84615">
-    <img src="https://studentambassadors.microsoft.com/Assets/Badge/LevelBeta.png" height="130px" alt="Beta badge" />
+    <img src="LevelBeta.png" height="130px" alt="Beta badge" />
   </a>
 </p>
 
