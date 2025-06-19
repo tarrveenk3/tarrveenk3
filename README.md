@@ -66,14 +66,15 @@
 ---
 
 ### 🤝 Connect with Me
-<p align="left">
-  <a href="https://twitter.com/tarrveen?s=09" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" />
+<p align="left" style="display: flex; gap: 10px; align-items: center; margin: 0;">
+  <a href="https://twitter.com/tarrveen?s=09" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/tarrveenkaurkohli" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/tarrveenkaurkohli" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:tarrveenkaurkohli@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="Email" height="30" width="40" />
-  </a>
+  <a href="mailto:tarrveenkaurkohli@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="Email" height="30" width="40" />
+  </a>
 </p>
+
