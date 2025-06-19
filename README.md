@@ -1,5 +1,5 @@
 <h1 align="center">Tarrveen Kaur Kohli</h1>
-
+<h2 align="center">AI Researcher | CompSci Engineer | Psychology & Mental Health Student | Ex-Beta MLSA | Physical Therapist (Alternative Med) | Content Writer/Poet</h2>
 <p align="center">Hi there! I'm Tarrveen — a Computer Science graduate, aspiring Psychologist, AI researcher, content creator, and former <a href="https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/a6e985cb-5e58-4bbb-93e8-4833650ecc9c">Microsoft Learn Student Ambassador</a>. I'm passionate about bridging technology with mental health, and using data and AI to create meaningful impact.</p>
 
 <p align="center">
